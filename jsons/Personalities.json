@@ -1,0 +1,14 @@
+[
+{
+                "name": "Ashurbanipal",
+                "preferredVictoryType": "Domination",
+                "food": 5,
+                "production": 7,
+                "gold": 4,
+                "culture": 5,
+                "science": 7,
+                "faith": 6,
+                "military": 8,
+                "warMongering": 10
+        },
+]
