@@ -2,6 +2,7 @@
 	{
 		"name": "Assyria",
 		"leaderName": "Ashurbanipal",
+		"personality": "Ashurbanipal",
 		"adjective": ["Assyrian"],
 		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
