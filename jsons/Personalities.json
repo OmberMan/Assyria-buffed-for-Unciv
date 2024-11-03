@@ -7,12 +7,12 @@
                 "gold": 4,
                 "culture": 5,
                 "science": 7,
-                "faith": 6,
-                "military": 8,
+                "faith": 5,
+                "military": 9,
                 //"warMongering": 10
-"aggressive": 6,
+"aggressive": 7,
       "declareWar": 10,
-      "commerce": 3,
+      "commerce": 4,
       "diplomacy": 6,
       "loyal": 3,
       "expansion": 8
